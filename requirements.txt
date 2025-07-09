@@ -1,0 +1,6 @@
+# TeReoCounter Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Required Python version
+# Python 3.6 or higher recommended 
