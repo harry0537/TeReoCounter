@@ -5,7 +5,7 @@ import random
 englishwords = []
 maoriwords = []
 # imported file as csv
-with open("E:\Harry\Programming Fundamentals\Maori2Eng.txt", 'r') as csv_file:
+with open("Maori2Eng.txt", 'r') as csv_file:
     csv_reader = csv.reader(csv_file)  # read the comma separated values.
     for line in csv_reader:
         englishwords.append(line[1])  # separate english words from file in list.
